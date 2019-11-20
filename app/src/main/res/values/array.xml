@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name = "period_array">
+        <item>One week</item>
+        <item>Two weeks</item>
+        <item>One month</item>
+        <item>Three months</item>
+        <item>Six months</item>
+        <item>One year</item>
+    </array>
+
+    <array name = "type_array">
+        <item>Rose</item>
+        <item>White Rose</item>
+        <item>Carnation</item>
+        <item>Lily</item>
+        <item>Tulip</item>
+    </array>
+
+    <array name = "realtime_array">
+        <item>30 minutes</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>two weeks</item>
+    </array>
+
+</resources>
